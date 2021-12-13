@@ -20,7 +20,7 @@
 ![PYTHON3](https://img.shields.io/badge/-PYTHON3-333333?style=flat&logo=PYTHON3)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-![c#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C#)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
 
 
 
