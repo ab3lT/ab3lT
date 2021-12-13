@@ -2,7 +2,7 @@
 
 [![Twitter: WobblyWas](https://img.shields.io/twitter/follow/Abel?style=social)](https://twitter.com/AB3LT)
 [![Linkedin: Abel Tadesse](https://img.shields.io/badge/-Emmanuel-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-mwangi-15b41b218/)](https://www.linkedin.com/in/emmanuel-mwangi-15b41b218/)
-[![GitHub Emmanuel](https://img.shields.io/github/followers/Emmanuel-Munubi?label=follow&style=social)](https://github.com/ab3lT)
+[![GitHub AbelT](https://img.shields.io/github/followers/Emmanuel-Munubi?label=follow&style=social)](https://github.com/ab3lT)
 
 
 - 🌱 I’m currently learning software Engineering at AAIT
