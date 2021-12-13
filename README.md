@@ -17,7 +17,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) 
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
 ![PYTHON3](https://img.shields.io/badge/-PYTHON3-333333?style=flat&logo=PYTHON3)
-![Flutter](https://img.shields.io/badge/-PYTHON3-333333?style=flat&logo=PYTHON3)
+![Flutter](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
 
 
 ### Technologies and Tool ⚙️ 🖥
