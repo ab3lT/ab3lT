@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning software Engineering at AAIT
 - 🌱 I’m currently learning Python at ALX
-- ⚡ Fun fact: I love listening to Ethiopian Music
 
 
 
@@ -21,18 +20,13 @@
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
-
-
-
-
-
+<img align="left" alt="Flutter " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
 
 ### Technologies and Tool ⚙️ 🖥
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ab3lT&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ab3l&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
