@@ -1,4 +1,6 @@
-### Hi There , I'm Abel Tadesse 👋
+## Hi There , I'm Abel Tadesse 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ab3lT" alt="abel" /> </p>
+
 
 [![Twitter: WobblyWas](https://img.shields.io/twitter/follow/Abel?style=social)](https://twitter.com/AB3LT)
 [![Linkedin: Abel Tadesse](https://www.linkedin.com/in/abel-tadesse-8006081b9/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B3KLWWPvATdqQ4N2GT7qPXw%3D%3D)](https://www.linkedin.com/in/abel-tadesse-8006081b9/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B3KLWWPvATdqQ4N2GT7qPXw%3D%3D)
@@ -6,7 +8,7 @@
 
 
 - 🌱 I’m currently learning software Engineering at AAIT
-- 🌱 I’m currently learning Python at ALX
+
 
 
 
