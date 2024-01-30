@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab3lT" alt="abel" /> </p>
 
 
-[![Twitter: WobblyWas](https://img.shields.io/twitter/follow/Abel?style=social)](https://twitter.com/AB3LT)
+[![Twitter: AB3LT](https://img.shields.io/twitter/follow/Abel?style=social)](https://twitter.com/AB3LT)
 [![Linkedin: Abel Tadesse](https://img.shields.io/linkedin/follow/Abel?style=social)](https://linkedin.com/in/abeltadessealemu)
 [![GitHub AbelT](https://img.shields.io/github/followers/ab3lT?label=follow&style=social)](https://github.com/ab3lT)
 
