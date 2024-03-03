@@ -6,7 +6,7 @@
 [![GitHub AbelT](https://img.shields.io/github/followers/ab3lT?label=follow&style=social)](https://github.com/ab3lT)
 
 
-- 🌱 I’m currently learning software Engineering at AAIT
+- 🌱 I’m currently GC student software Engineering at AAIT
 
 
 
