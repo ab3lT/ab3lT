@@ -6,9 +6,9 @@
 [![GitHub AbelT](https://img.shields.io/github/followers/ab3lT?label=follow&style=social)](https://github.com/ab3lT)
 
 
-- 🌱 I’m currently GC student software Engineering at AAIT
+- 🌱 I’m currently a GC student in Software Engineering at AAIT
 
-
+- 🌱 I’m currently a working as a full stack developer 
 
 
 ### Languages 💻 🌐
