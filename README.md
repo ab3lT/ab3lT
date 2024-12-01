@@ -1,12 +1,10 @@
 ## Hi There, I'm Abel Tadesse 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ab3lT" alt="abel" /> </p>
 
 <h1 align="center">Hi 👋, I'm Abel Tadesse</h1>
-<h3 align="center">A passionate ML Developer from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ab3lta&label=Profile%20views&color=0e75b6&style=flat" alt="ab3lta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ab3lT" alt="abel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ab3lta" alt="ab3lta" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ab3lt" alt="ab3lt" /></a> </p>
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
