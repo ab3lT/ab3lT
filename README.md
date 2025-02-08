@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django, Java**
 
 - 📫 How to reach me **se.abel.tadesse@gmail.com**
 
