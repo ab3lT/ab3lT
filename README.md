@@ -1,4 +1,4 @@
-## Hi There, I'm Abel Tadesse 👋
+
 
 <h1 align="center">Hi 👋, I'm Abel Tadesse</h1>
 
