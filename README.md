@@ -184,7 +184,7 @@ me.say_hi()
 *"First, solve the problem. Then, write the code."*
 
 **⭐ If you find my work useful, give a repo a star — it means a lot!**
-
+**Thanks**
 
 
 </div>
