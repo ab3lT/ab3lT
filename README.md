@@ -150,11 +150,6 @@ me.say_hi()
 
 </div>
 
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ab3lt&theme=nord&column=7&margin-w=8&margin-h=8&no-frame=true)](https://github.com/ab3lT)
-
-</div>
 
 ---
 
