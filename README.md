@@ -1,24 +1,13 @@
 <div align="center">
 
-```
-   ___   ___  ___ _   _____ _   ___  ___ ___ ___ ___ ___ 
-  / _ \ | _ \| __| | |_   _/_\ |   \| __/ __/ __| __| __|
- | (_)  | ()| _|| |__ | |/ _ \| |) | _|\__ \__ \ _|| _| 
-/__/  \ \___/|___|____||_/_/ \_\___/|___|___/___/___|___|
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=1B4F8A&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Abel+Tadesse+%F0%9F%91%8B;Python+Backend+Developer;Fintech+%26+AI+Engineer;I+build+things+that+scale" alt="Typing SVG" />
 
-</div>
-
-<div align="center">
-
-# Abel Tadesse
-
-**Python Backend Developer · Fintech & AI Enthusiast · Builder of Things That Scale**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=ab3lT&color=1B4F8A&style=flat-square&label=Profile+Views)](https://github.com/ab3lT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/abeltadessealemu)
-[![Email](https://img.shields.io/badge/Email-se.abel.tadesse%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:se.abel.tadesse@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-ab3lta-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/ab3lta)
+<p>
+  <a href="https://linkedin.com/in/abeltadessealemu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:se.abel.tadesse@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://kaggle.com/ab3lta"><img src="https://img.shields.io/badge/Kaggle-ab3lta-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ab3lT&color=1B4F8A&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 </div>
 
@@ -29,85 +18,49 @@
 ```python
 class AbelTadesse:
     def __init__(self):
-        self.name        = "Abel Tadesse"
-        self.role        = "Python Backend Developer"
-        self.location    = "🌍 Ethiopia"
-        self.email       = "se.abel.tadesse@gmail.com"
-        self.github      = "github.com/ab3lT"
-        self.linkedin    = "linkedin.com/in/abeltadessealemu"
-
-    @property
-    def current_focus(self):
-        return [
-            "🏗️  Building fintech & payment systems",
-            "🤖  Exploring AI / ML applications",
+        self.role     = "Python Backend Developer"
+        self.location = "🌍 Ethiopia"
+        self.focus    = [
+            "🏗️  Fintech & payment systems",
+            "🤖  AI / ML applications",
             "🔗  REST API design & integrations",
-            "☁️  Cloud-native deployment (AWS, Docker, K8s)",
+            "☁️  Cloud-native deployment",
         ]
 
-    @property
-    def tech_stack(self):
-        return {
-            "languages":   ["Python", "JavaScript", "Java", "Dart", "Go"],
-            "backend":     ["Flask", "Django", "FastAPI", "Node.js", "Express"],
-            "databases":   ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
-            "cloud_devops":["AWS", "Azure", "Docker", "Kubernetes", "Jenkins"],
-            "ml_ai":       ["TensorFlow", "PyTorch", "scikit-learn", "pandas"],
-            "mobile":      ["Flutter", "React Native"],
-        }
-
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something great. 🚀")
+        return "Thanks for stopping by. Let's build something great. 🚀"
 
-me = AbelTadesse()
-me.say_hi()
+
+print(AbelTadesse().say_hi())
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Languages & Frameworks
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,go,cpp,dart&theme=dark" alt="Languages" />
 
-### 🗄️ Databases
+**Backend & Frameworks**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi,nodejs,express&theme=dark" alt="Backend" />
 
-### ☁️ Cloud, DevOps & Tools
+**Databases**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark" alt="Databases" />
 
-### 🤖 AI / ML
+**Cloud, DevOps & Tools**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git&theme=dark" alt="Cloud & DevOps" />
 
-### 📱 Mobile & Frontend
+**AI / ML**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI/ML" />
+
+**Mobile & Frontend**
+
+<img src="https://skillicons.dev/icons?i=flutter,react,angular&theme=dark" alt="Mobile & Frontend" />
 
 ---
 
@@ -118,12 +71,12 @@ me.say_hi()
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/💳-Payment%20Systems-1B4F8A?style=for-the-badge" /><br/><br/>
       <strong>Fintech Backends</strong><br/>
-      <sub>REST APIs, payment gateway integrations (Stripe, PayPal/Braintree), secure transaction engines, and audit-ready financial logic</sub>
+      <sub>REST APIs, payment gateway integrations, secure transaction engines, and audit-ready financial logic</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/🤖-AI%20%2F%20ML-1B4F8A?style=for-the-badge" /><br/><br/>
       <strong>Machine Learning Apps</strong><br/>
-      <sub>Predictive models, computer vision pipelines, and data analytics dashboards built with TensorFlow, PyTorch & scikit-learn</sub>
+      <sub>Predictive models, computer vision pipelines, and data analytics dashboards</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/☁️-Cloud%20Apps-1B4F8A?style=for-the-badge" /><br/><br/>
@@ -139,23 +92,24 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ab3lt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab3lt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ab3lt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab3lt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ab3lt&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
 
 </div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ab3lt&theme=tokyonight&hide_border=true)](https://github.com/ab3lT)
-
-</div>
-
 
 ---
 
-## 🔥 Activity Graph
+## 🔥 Contribution Activity
 
-[![Abel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ab3lt&theme=tokyo-night&hide_border=true)](https://github.com/ab3lT)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ab3lt&theme=tokyo-night&hide_border=true&bg_color=00000000&color=1B4F8A&line=1B4F8A&point=ffffff" alt="Activity Graph"/>
+
+</div>
 
 ---
 
@@ -163,23 +117,21 @@ me.say_hi()
 
 <div align="center">
 
-| Platform | Link |
-|---|---|
-| 💼 LinkedIn | [linkedin.com/in/abeltadessealemu](https://linkedin.com/in/abeltadessealemu) |
+| Platform | Handle |
+|:---:|:---:|
+| 💼 LinkedIn | [abeltadessealemu](https://linkedin.com/in/abeltadessealemu) |
 | 📧 Email | [se.abel.tadesse@gmail.com](mailto:se.abel.tadesse@gmail.com) |
-| 📊 Kaggle | [kaggle.com/ab3lta](https://kaggle.com/ab3lta) |
+| 📊 Kaggle | [ab3lta](https://kaggle.com/ab3lta) |
 | 📸 Instagram | [@abel_tadesse_](https://instagram.com/abel_tadesse_) |
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+> *"First, solve the problem. Then, write the code."*
 
-**⭐ If you find my work useful, give a repo a star — it means a lot!**
-**Thanks**
-
+⭐ **If you find my work useful, drop a star. It means a lot.**
 
 </div>
