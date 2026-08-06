@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=1B4F8A&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Abel+Tadesse+%F0%9F%91%8B;Python+Backend+Developer;Fintech+%26+AI+Engineer;I+build+things+that+scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=1B4F8A&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Abel+Tadesse+%F0%9F%91%8B;Python+Backend+%26+AI+Engineer;University+Lecturer+%40+AAU;Top+Rated+Freelancer+on+Upwork;I+build+things+that+scale" alt="Typing SVG" />
 
 <p>
   <a href="https://linkedin.com/in/abeltadessealemu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:se.abel.tadesse@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://kaggle.com/ab3lta"><img src="https://img.shields.io/badge/Kaggle-ab3lta-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <img src="https://komarev.com/ghpvc/?username=ab3lT&color=1B4F8A&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+<p>
+  🎓 &nbsp;Lecturer @ Addis Ababa University &nbsp;·&nbsp; 📚 &nbsp;MSc Software Engineering Candidate &nbsp;·&nbsp; ⭐ &nbsp;Top Rated on Upwork
 </p>
 
 </div>
@@ -18,7 +22,12 @@
 ```python
 class AbelTadesse:
     def __init__(self):
-        self.role     = "Python Backend Developer"
+        self.roles    = [
+            "Python Backend & AI Engineer",
+            "Lecturer @ Addis Ababa University",
+            "Top Rated Freelancer @ Upwork",
+        ]
+        self.studying = "MSc, Software Engineering (AAU)"
         self.location = "🌍 Ethiopia"
         self.focus    = [
             "🏗️  Fintech & payment systems",
