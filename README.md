@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  🎓 &nbsp;Lecturer @ Addis Ababa University &nbsp;·&nbsp; 📚 &nbsp;MSc Software Engineering Candidate &nbsp;·&nbsp; ⭐ &nbsp;Top Rated on Upwork
+  🎓 &nbsp;Lecturer  &nbsp;·&nbsp; 📚 &nbsp;MSc Software Engineering Candidate &nbsp;·&nbsp; ⭐ &nbsp;Top Rated on Upwork
 </p>
 
 </div>
