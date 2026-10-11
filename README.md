@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=1B4F8A&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Abel+Tadesse+%F0%9F%91%8B;Python+Backend+%26+AI+Engineer;University+Lecturer+%40+AAU;Top+Rated+Freelancer+on+Upwork;I+build+things+that+scale" alt="Typing SVG" />
 
 <p>
